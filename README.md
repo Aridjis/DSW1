@@ -2,7 +2,7 @@
 
 **Materia:** Desarrollo de Sistemas Web I  
 **Alumno:** Joaquín Herman Valenzuela Aridjis  
-**Fecha:** [Agrega aquí la fecha de entrega]
+**Fecha:** 18/05/2025
 
 ---
 
@@ -23,14 +23,6 @@ Ambas páginas están estilizadas con `style.css` para lograr una apariencia vis
 - CSS3  
 - Visual Studio Code  
 
----
-
-## 📷 Capturas de Pantalla
-
-> Puedes agregar aquí imágenes si lo deseas usando:  
-> `![Descripción](ruta/a/la/imagen.png)`
-
----
 
 ## 📁 Estructura del Proyecto
 
